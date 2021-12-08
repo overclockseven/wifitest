@@ -36,7 +36,7 @@ public class Main {
                         if (input == 2) {
                             System.out.print(" Get a new router");
                         }
-                        if (input == 1 || input == 1)
+                        if (input == 1)
                             System.exit(0);
 
                     }
