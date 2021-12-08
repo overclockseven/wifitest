@@ -1,9 +1,9 @@
 package colamthimoicoan;
 
 /* 
-make sure the cables between the router & nodes are plugge din firmly
+make sure the cables between the router & nodes are plugged din firmly
 "Did that fix the problem?"
-move routeer to new location
+move router to new location
 "Did that fix the problem?"
 get a new router
 */
